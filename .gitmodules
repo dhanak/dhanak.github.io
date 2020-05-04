@@ -1,0 +1,3 @@
+[submodule "mastermind"]
+	path = mastermind
+	url = git://github.com/dhanak/mastermind.git
