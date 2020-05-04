@@ -1,3 +1,6 @@
 [submodule "mastermind"]
 	path = mastermind
 	url = https://github.com/dhanak/mastermind.git
+[submodule "quest"]
+	path = quest
+	url = https://github.com/dhanak/quest.git
