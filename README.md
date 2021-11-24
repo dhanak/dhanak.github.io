@@ -1,5 +1,5 @@
 # dhanak.github.io
-Github Pages
 
-* [Mastermind – a szójáték](mastermind/mastermind.html)
-* [TúraPest - kalandozás Pest belvárosában](quest/quest.html)
+* [Mastermind – a szójáték](mastermind)
+* [TúraPest - kalandozás Pest belvárosában](quest)
+* [Vacsoraparancsnok](vacsoraparancsnok)
