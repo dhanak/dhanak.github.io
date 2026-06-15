@@ -2,7 +2,7 @@
 
 # dev.vidga.hu
 
-* [C1 Examiner – angol-magyar szókincsbővítés C1 szintre](examiner)
+* [C1 Examiner – angol/német-magyar szókincsbővítés C1 szintre](examiner)
 * [Mastermind – a szójáték](mastermind)
-* [TúraPest – kalandozás Pest belvárosában](quest)
+* [Kalandtúra – városi kalandozás verses fejtörőkkel](quest)
 * [Vacsoraparancsnok](vacsoraparancsnok) / [Dinner Commander](dinnercommander)
